@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="busTicketBookingManagementSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/busTicketBookingManagementSystem/dist/busTicketBookingManagementSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
